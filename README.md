@@ -4,7 +4,7 @@
 This repository is for Homework 1 of the Generative AI course, demonstrating a workflow that integrates AI coding assistants with manual editing and Git version control.
 
 ##  Walkthrough Video
-- **Link**: [PASTE YOUR UNLISTED YOUTUBE LINK HERE]
+- **Link**: https://youtu.be/PxiBLOndUjA
 
 ---
 
